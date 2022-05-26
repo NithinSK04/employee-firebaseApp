@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769881731531",
+    "project_id": "employeefb-fe9c1",
+    "storage_bucket": "employeefb-fe9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769881731531:android:957423f93aa19dbb0e464e",
+        "android_client_info": {
+          "package_name": "com.employeefb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769881731531-r92uprggaba2ea91pms3mp8859ms1b26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJVgLCEHIlqlwIY-jKwSzraKqOlbbsDKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769881731531-r92uprggaba2ea91pms3mp8859ms1b26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
